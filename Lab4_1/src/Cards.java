@@ -14,3 +14,5 @@ public Deck(String()rank; String[]suits, int[]value) {
 		}
 	}
 }
+
+this.Dealt= new ArrayList<Card>()
